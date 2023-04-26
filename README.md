@@ -10,7 +10,7 @@
 
   <h2>Installation</h2>
   <ol>
-    <li>Download the .zip file from the <a href="https://github.com/yourusername/FocusTabsAI">GitHub repository</a>.</li>
+    <li>Download the .zip file from the <a href="https://github.com/sparkaiconsulting/AIestheticsAnalyzer">GitHub repository</a>.</li>
     <li>Extract the .zip file to a folder of your choice.</li>
     <li>Open Chrome or Edge browser.</li>
     <li>Navigate to chrome://extensions/ (for Chrome) or edge://extensions/ (for Edge).</li>
