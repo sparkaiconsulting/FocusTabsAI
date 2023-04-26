@@ -6,7 +6,7 @@
 </head>
 <body>
   <h1>FocusTabsAI</h1>
-  <p>FocusTabsAI is a cutting-edge Chrome extension developed by <a href="https://sparkaiconsulting.com/>Spark AI Consulting"</a> designed to skyrocket productivity by streamlining tab management and sharpening user focus. Featuring a sleek, organized interface, it empowers users to effortlessly search, filter, rearrange, and sort tabs using various criteria like title and recency. With a built-in timer that can be started or stopped at will, FocusTabsAI helps users stay on task and maintain their momentum. Quick tab closure and seamless navigation to existing tabs via URL clicks further enhance the browsing experience, making FocusTabsAI the ultimate tool for those who demand peak performance from their browsing sessions.</p>
+  <p>FocusTabsAI is a cutting-edge Chrome extension developed by <a href="https://sparkaiconsulting.com/">Spark AI Consulting</a> designed to skyrocket productivity by streamlining tab management and sharpening user focus. Featuring a sleek, organized interface, it empowers users to effortlessly search, filter, rearrange, and sort tabs using various criteria like title and recency. With a built-in timer that can be started or stopped at will, FocusTabsAI helps users stay on task and maintain their momentum. Quick tab closure and seamless navigation to existing tabs via URL clicks further enhance the browsing experience, making FocusTabsAI the ultimate tool for those who demand peak performance from their browsing sessions.</p>
 
   <h2>Installation</h2>
   <ol>
