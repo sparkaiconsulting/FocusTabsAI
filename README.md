@@ -11,7 +11,7 @@
   <h2>Installation</h2>
   <ol>
     <li>Download the .zip file from the <a href="https://github.com/sparkaiconsulting/FocusTabsAI">GitHub repository</a>.</li>
-    <li>Extract the .zip file to a folder of your choice.</li>
+    <li>Unzip the file into a directory of your choice.</li>
     <li>Open Chrome or Edge browser.</li>
     <li>Navigate to chrome://extensions/ (for Chrome) or edge://extensions/ (for Edge).</li>
     <li>Enable "Developer mode" in the top right corner of the Extensions page.</li>
